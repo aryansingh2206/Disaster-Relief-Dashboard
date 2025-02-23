@@ -48,8 +48,5 @@ Contributions are welcome! Feel free to fork this repository and submit a pull r
 ## 📜 License
 This project is licensed under the **MIT License**.
 
-## 📧 Contact
-For any inquiries or feedback, contact **Aryan Singh** at [your.email@example.com](mailto:your.email@example.com).
-
 ---
 *Empowering communities with technology for disaster resilience!*
